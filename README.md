@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # `coro`: coroutines in golang
 
 `coro` is a coroutine implementation in golang using goroutines.
@@ -8,8 +10,6 @@ This package is the goroutine-based implementation achieved by Russ Cox in [this
 go get github.com/lucafmarques/coro 
 ```
 ---
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
