@@ -1,6 +1,5 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 # `coro`: coroutines in golang
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 `coro` is a coroutine implementation in golang using goroutines.
 
